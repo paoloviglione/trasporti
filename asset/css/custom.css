@@ -1,0 +1,25 @@
+
+/* Override Bootstrap */
+
+.navbar {
+  border: none;
+}
+
+.navbar-nav {
+  margin-top: 0;
+}
+
+.navbar-brand {
+    
+    display: inline-block;
+    text-indent: -9999px;
+    width: 210px;
+    height: 60px;
+    background: url(../img/logo-sun_230x70.png) center center no-repeat;
+}
+
+/* New */
+
+.bolded {
+    font-weight: bold;
+}
